@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="search">Search…</string>
+    <string name="all_notes">All Notes</string>
+    <string name="pinned">Pinned</string>
+    <string name="others">Others</string>
+    <string name="just_now">Just Now</string>
+    <string name="h_ago">%1$d h ago</string>
+</resources>

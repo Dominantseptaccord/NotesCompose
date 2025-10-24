@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="search">Поиск…</string>
+    <string name="pinned">Закреплено</string>
+    <string name="all_notes">Все заметки</string>
+    <string name="others">Другие</string>
+    <string name="just_now">Только что</string>
+    <string name="h_ago">%1$d часов назад</string>
+</resources>
