@@ -61,7 +61,7 @@ class CreationViewModel @Inject constructor(
                     }
                 }
             }
-            // ТУТ Я САМ СДЕЛАЛ ТУТ МОЖЕТ БЫТЬ ОШИБКА
+
             CreateNoteCommand.Save -> {
                 viewModelScope.launch {
                     _state.update { previousState ->
